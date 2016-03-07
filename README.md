@@ -6,8 +6,9 @@ Działanie wyglądałoby mniej więcej tak:
 - Aplikacja w dniu przypomnienia powiadamia użytkownika o zapisanym zdarzeniu, wyskakującym oknem z wcześniej zapisaną informacją na pulpicie.
 System fiszek – zakładki w kalendarzu na dany dzień, gdzie będą przechowywane wpisy.
 Funkcja planuj – ma za zadnie z wyprzedzeniem planowania np. wakacji, gdzie można umieścić  notatki 
+
 #OPIS OGOLNY
-#Założenia są następujące:
+Założenia są następujące:
 1. Program powinien być połączony z zegarem systemowym 
 2. Powinien posiadać prostą bazę danych 
 3. Powinien być obsługiwany przez 'panel użytkownika'
